@@ -1,5 +1,5 @@
 {
-  "name": "perodua-loan-calculator",
+  "name": "@rafik7704/perodua-loan-calculator",
   "version": "1.0.0",
   "description": "<h1 align=\"center\" id=\"title\">Perodua Loan Calculator</h1>",
   "main": "index.js",
