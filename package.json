@@ -1,0 +1,20 @@
+{
+  "name": "perodua-loan-calculator",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" id=\"title\">Perodua Loan Calculator</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafik7704/Perodua-Loan-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafik7704/Perodua-Loan-Calculator/issues"
+  },
+  "homepage": "https://github.com/rafik7704/Perodua-Loan-Calculator#readme"
+}
