@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Perodua Loan Calculator</h1>
 
-<p align="center"><img src="https://socialify.git.ci/rafik7704/Perodua-Loan-Calculator/image?font=Raleway&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83378047%3Fv%3D4&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/rafik7704/Perodua-Loan-Calculator/image?font=KoHo&issues=1&language=1&logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F798068595607339028%2F1036974666927046706%2F77041.png%3Fwidth%3D868%26height%3D500&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
 
 <p id="description">Perodua Loan Calculator is my first software inspired by a Tiktok user's question about what salary qualifies for a perodua car.</p>
 
