@@ -43,7 +43,7 @@ Technologies used in the project:
 This project is licensed under the MIT License
 Credit to:
 *   Perodua Malaysia <img src="https://seeklogo.com/images/P/Perodua-logo-FB920DD411-seeklogo.com.png" alt="logo"  width="100" height="50/">
-*   Maybank
+*   Maybank <img src="https://seeklogo.com/images/M/maybank-logo-E7992F6B89-seeklogo.com.png" alt="logo"  width="100" height="50/">
 *   RHB bank
 *   BSN
 *   CIMB BANK
