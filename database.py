@@ -9,6 +9,7 @@ root = Tk()
 root.iconbitmap("perodua.ico")
 root.title('Perodua Loan Calculator')
 root.geometry("1020x800")
+root.state("zoomed")
 
 canvas = Canvas(root, width = 415, height = 283)  
 canvas.pack(padx=0, pady=0, side=RIGHT)  
