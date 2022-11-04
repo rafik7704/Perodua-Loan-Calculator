@@ -13,7 +13,7 @@ root.state("zoomed")
 
 canvas = Canvas(root, width = 415, height = 283)  
 canvas.pack(padx=0, pady=0, side=RIGHT)  
-img = PhotoImage(file="images\bank.jpg")  
+img = PhotoImage(file="images/bank.jpg")  
 canvas.create_image(0, 0, anchor=NW, image=img)  
 
 connection = mysql.connector.connect(
