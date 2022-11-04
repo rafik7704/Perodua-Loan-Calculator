@@ -17,11 +17,11 @@ img = PhotoImage(file="bank.jpg")
 canvas.create_image(0, 0, anchor=NW, image=img)  
 
 connection = mysql.connector.connect(
-      host='sql12.freesqldatabase.com',
-      user='sql12529996',
-      password='hct9IhwWR2',
+      host='sql12.freemysqlhosting.net',
+      user='sql12541617',
+      password='I8fgmNLepp',
       port='3306',
-      database='sql12529996')
+      database='sql12541617')
 c = connection.cursor()
 
 
