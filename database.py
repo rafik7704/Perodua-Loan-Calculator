@@ -4,6 +4,7 @@ import os
 from xmlrpc.client import boolean
 from PIL import Image, ImageTk
 import mysql.connector
+from config import*
 
 root = Tk()
 root.iconbitmap("images\perodua.ico")
@@ -17,11 +18,11 @@ img = PhotoImage(file="images/bank.jpg")
 canvas.create_image(0, 0, anchor=NW, image=img)  
 
 connection = mysql.connector.connect(
-      host='sql12.freemysqlhosting.net',
-      user='sql12541617',
-      password='I8fgmNLepp',
-      port='3306',
-      database='sql12541617')
+      host=hosted,
+      user=user1,
+      password=datapass,
+      port=dataport,
+      database=databased)
 c = connection.cursor()
 
 

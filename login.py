@@ -2,17 +2,17 @@ from tkinter import *
 #import library
 from time import strftime
 import mysql.connector
-
+from config import *
 #open databse
 #defining login function
 def login():
     #getting form data
     connection = mysql.connector.connect(
-      host='sql12.freemysqlhosting.net',
-      user='sql12541617',
-      password='I8fgmNLepp',
-      port='3306',
-      database='sql12541617')
+      host=hosted,
+      user=user1,
+      password=datapass,
+      port=dataport,
+      database=databased)
     c = connection.cursor()
     uname=username.get()
     pwd=password.get()
