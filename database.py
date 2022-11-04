@@ -6,14 +6,14 @@ from PIL import Image, ImageTk
 import mysql.connector
 
 root = Tk()
-root.iconbitmap("perodua.ico")
+root.iconbitmap("images\perodua.ico")
 root.title('Perodua Loan Calculator')
 root.geometry("1020x800")
 root.state("zoomed")
 
 canvas = Canvas(root, width = 415, height = 283)  
 canvas.pack(padx=0, pady=0, side=RIGHT)  
-img = PhotoImage(file="bank.jpg")  
+img = PhotoImage(file="images\bank.jpg")  
 canvas.create_image(0, 0, anchor=NW, image=img)  
 
 connection = mysql.connector.connect(

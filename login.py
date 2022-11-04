@@ -42,7 +42,7 @@ def Loginform():
     login_screen = Tk()
     #Setting title of screen
     login_screen.title("LOG MASUK PERODUA CALCULATOR")
-    login_screen.iconbitmap("perodua.ico")
+    login_screen.iconbitmap("images\perodua.ico")
     #setting height and width of screen
     login_screen.geometry("350x300")
     login_screen["bg"]="#1C2833"
