@@ -48,6 +48,6 @@ Credit to:
 *   BSN
 *   CIMB BANK
 *   Ambank
-<h2>📥 Download EXE File <h2>
+<h2>📥 Download EXE File Version 1.1 (UP-TO-DATE)<h2>
 go to:
-https://drive.google.com/file/d/12RLwKKdAL7OWVpsI-3-B6Mpvm89ZTQwg/view?usp=sharing
+https://drive.google.com/file/d/1KcxwvPwBFykAZwILtjfWFapgxIAifDgy/view?usp=sharing
