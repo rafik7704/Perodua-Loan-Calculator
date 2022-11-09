@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1zepzAIzNBuPxiy5hb1byvp16WvVmRoEB/view?usp=shari
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://media.discordapp.net/attachments/798068595607339028/1036683638697361459/Log-in.png?width=662&amp;height=468" alt="project-screenshot" width="662" height="468/">
+<img src="https://media.discordapp.net/attachments/798068595607339028/1039887652930986045/Artboard_14x.png?width=662&amp;height=468" alt="project-screenshot" width="662" height="468/">
 
 <img src="https://media.discordapp.net/attachments/798068595607339028/1036683638181482546/database.png?width=662&amp;height=468" alt="project-screenshot" width="662" height="468/">
 
