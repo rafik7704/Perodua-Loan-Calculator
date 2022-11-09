@@ -2,6 +2,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 import mysql.connector
 from time import strftime
+from config import*
 class LoginPage:
     def __init__(self, window):
         self.window = window
@@ -173,11 +174,11 @@ def login():
     #getting form data
     
     connection = mysql.connector.connect(
-      host='sql12.freesqldatabase.com',
-      user='sql12529996',
-      password='hct9IhwWR2',
-      port='3306',
-      database='sql12529996')
+      host=hosted,
+      user=user1,
+      password=datapass,
+      port=dataport,
+      database=databased)
     c = connection.cursor()
     uname=username.get()
     pwd=password.get()
