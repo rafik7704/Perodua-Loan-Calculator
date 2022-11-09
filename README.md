@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Perodua Loan Calculator</h1>
+https://drive.google.com/file/d/1zepzAIzNBuPxiy5hb1byvp16WvVmRoEB/view?usp=sharing<h1 align="center" id="title">Perodua Loan Calculator</h1>
 
 <p align="center"><img src="https://socialify.git.ci/rafik7704/Perodua-Loan-Calculator/image?font=KoHo&issues=1&language=1&logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F798068595607339028%2F1036974666927046706%2F77041.png%3Fwidth%3D868%26height%3D500&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
 
@@ -48,6 +48,6 @@ Credit to:
 *   BSN
 *   CIMB BANK
 *   Ambank
-<h2>📥 Download EXE File Version 1.1 (UP-TO-DATE)<h2>
+<h2>📥 Download EXE File Version 2.0 (UP-TO-DATE)<h2>
 go to:
-https://drive.google.com/file/d/1KcxwvPwBFykAZwILtjfWFapgxIAifDgy/view?usp=sharing
+https://drive.google.com/file/d/1zepzAIzNBuPxiy5hb1byvp16WvVmRoEB/view?usp=sharing
