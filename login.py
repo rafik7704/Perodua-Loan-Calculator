@@ -10,7 +10,7 @@ class LoginPage:
         self.window.resizable(0, 0)
         self.window.state('zoomed')
         self.window.title('Login Page')
-        self.window.iconbitmap("perodua.ico")
+        self.window.iconbitmap("images\perodua.ico")
         global username
         global password 
         global message
