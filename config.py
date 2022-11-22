@@ -1,7 +1,7 @@
-hosted="23.239.110.230"
-user1="cyberpow_rafik"
-datapass= '123456789'
+hosted=""
+user1=""
+datapass= ''
 dataport= 3306
-databased= "cyberpow_DATA"
+databased= ""
 
      
